@@ -1,3 +1,4 @@
+## Dont get it twisted, rex-rbx coded this shit
 # LREV - deepseek POW emulator
 
 I saw a influx in users wanting deepseek api, then realising its paid.
